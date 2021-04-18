@@ -1,2 +1,2 @@
 # t3UI
-Web Interface for To3ion
+Web Interface for Tor3ion
